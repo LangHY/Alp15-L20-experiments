@@ -38,3 +38,4 @@ dist/
 /docs/baselines/evidence/full_pool_download_20261011/candidate-snapshot.json
 /docs/baselines/evidence/full_pool_download_20261011/download-plan.json
 /docs/baselines/evidence/full_pool_download_20261011/test-candidates.csv
+/results/restored/

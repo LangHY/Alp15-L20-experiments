@@ -44,14 +44,14 @@ alpamayo1.5/.venv/bin/python -m py_compile scripts/prepare_alp15_precision_holdo
 
 HF_HUB_OFFLINE=1 HF_DATASETS_OFFLINE=1 CUDA_VISIBLE_DEVICES='' \
 alpamayo1.5/.venv/bin/python -B scripts/prepare_alp15_precision_holdout.py \
-  --root /home/tuqiang/lang/Lighten_VLA \
-  --metadata-root /home/tuqiang/lang/Lighten_VLA/datasets/physicalai_chunk0000_20261002_165238/files \
-  --usage-root /home/tuqiang/lang/Lighten_VLA/experiments \
-  --usage-root /home/tuqiang/lang/Lighten_VLA/datasets \
-  --usage-root /home/tuqiang/lang/Lighten_VLA/docs/baselines \
-  --usage-root /home/tuqiang/lang/Lighten_VLA/scripts \
-  --usage-root /home/tuqiang/lang/Lighten_VLA/compression \
-  --output /home/tuqiang/lang/Lighten_VLA/experiments/precision_holdout_prep_20261009_v1
+  --root /home/USER/lang/Lighten_VLA \
+  --metadata-root /home/USER/lang/Lighten_VLA/datasets/physicalai_chunk0000_20261002_165238/files \
+  --usage-root /home/USER/lang/Lighten_VLA/experiments \
+  --usage-root /home/USER/lang/Lighten_VLA/datasets \
+  --usage-root /home/USER/lang/Lighten_VLA/docs/baselines \
+  --usage-root /home/USER/lang/Lighten_VLA/scripts \
+  --usage-root /home/USER/lang/Lighten_VLA/compression \
+  --output /home/USER/lang/Lighten_VLA/experiments/precision_holdout_prep_20261009_v1
 ```
 
 命令是实现后生产契约，不表示已经执行。主任务先核验各root存在；发现另一个历史数据delivery、恢复路径或资产引用落在范围外时，将其显式追加只读usage-root或记覆盖缺口，不能默认已扫描。现有约1152份experiments JSON作为盘点参考，实际数量随并发记录可能变化；冻结开跑清单和SHA、结束时复核，不将不同数量直接当不存在的文件可忽略。源码快照可由主任务按现工作流上传，冻结目录须新建、拒覆盖；不改远端原venv、不触碰其它项目GPU/PID。

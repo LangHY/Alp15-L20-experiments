@@ -1,5 +1,8 @@
 # Alp15 L20 Experiments
 
+各阶段指标、结论及结果归档请见 [实验结果总览](results/README.md)。
+还原逐请求结果与历史曲线：`uv run --frozen python tools/restore_experiment_results.py`。
+
 Alpamayo 1.5 离线实验脚本归档：从早期 FFN/MLP 剪枝、蒸馏与恢复，到低秩敏感性、
 RTN/AWQ、混合内核、KV/少步采样、精度审计，以及数据下载和 Mac→L20 流水线。
 
