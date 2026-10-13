@@ -1,0 +1,17 @@
+[
+  {
+    "file": "flashdrive_pyproject.toml",
+    "url": "https://raw.githubusercontent.com/z-lab/flashdrive/26265174f0413db77c8a16d99993dbeecacf458f/pyproject.toml",
+    "sha256": "1628b6d5fc7ca9c7594df56802c7199594a1bf28939d00e4d16f6a0bc8b1b01c"
+  },
+  {
+    "file": "vllm_v016_marlin_utils.py",
+    "url": "https://raw.githubusercontent.com/vllm-project/vllm/v0.16.0/vllm/model_executor/layers/quantization/utils/marlin_utils.py",
+    "sha256": "f0d3b837041ebf75121f08d9674c923ee8a51255a5e4aabab845e8e69100871b"
+  },
+  {
+    "file": "flashdrive_init.py",
+    "url": "https://raw.githubusercontent.com/z-lab/flashdrive/26265174f0413db77c8a16d99993dbeecacf458f/flashdrive/__init__.py",
+    "sha256": "6f1b0212a52ef7e315e211e7c1f80b64cba567ce4ec5d962886caf5ea8317939"
+  }
+]

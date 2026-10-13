@@ -1,0 +1,53 @@
+[
+  {
+    "path": "archive/SOURCE_INDEX.json",
+    "sha256": "2c800448341348eac751d8261b556081cff880412b4070dd4dabf6ce28f21cec",
+    "parts": [
+      "archive/packed_manifests/0.0.b64"
+    ]
+  },
+  {
+    "path": "docs/baselines/evidence/full_pool_download_20261011/candidate-snapshot.json",
+    "sha256": "e75bb6813da2f51767e701ea1f7fc9f920da8e943abb89bcb18f06a27b1b2096",
+    "parts": [
+      "archive/packed_manifests/1.0.b64"
+    ]
+  },
+  {
+    "path": "docs/baselines/evidence/full_pool_download_20261011/download-plan.json",
+    "sha256": "2a2352b5e8d690763c7d66c40d3baed2154095987b64bd33c8206614ac93e8f0",
+    "parts": [
+      "archive/packed_manifests/2.0.b64",
+      "archive/packed_manifests/2.1.b64",
+      "archive/packed_manifests/2.2.b64"
+    ]
+  },
+  {
+    "path": "docs/baselines/evidence/full_pool_download_20261011/test-candidates.csv",
+    "sha256": "ad03761a64e92503b6a1bd6954b04898b7d57cb7badb45d194e9f9f7611d248a",
+    "parts": [
+      "archive/packed_manifests/3.0.b64",
+      "archive/packed_manifests/3.1.b64",
+      "archive/packed_manifests/3.2.b64",
+      "archive/packed_manifests/3.3.b64",
+      "archive/packed_manifests/3.4.b64",
+      "archive/packed_manifests/3.5.b64",
+      "archive/packed_manifests/3.6.b64",
+      "archive/packed_manifests/3.7.b64",
+      "archive/packed_manifests/3.8.b64",
+      "archive/packed_manifests/3.9.b64",
+      "archive/packed_manifests/3.10.b64",
+      "archive/packed_manifests/3.11.b64",
+      "archive/packed_manifests/3.12.b64",
+      "archive/packed_manifests/3.13.b64",
+      "archive/packed_manifests/3.14.b64",
+      "archive/packed_manifests/3.15.b64",
+      "archive/packed_manifests/3.16.b64",
+      "archive/packed_manifests/3.17.b64",
+      "archive/packed_manifests/3.18.b64",
+      "archive/packed_manifests/3.19.b64",
+      "archive/packed_manifests/3.20.b64",
+      "archive/packed_manifests/3.21.b64"
+    ]
+  }
+]

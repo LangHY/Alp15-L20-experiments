@@ -1,0 +1,278 @@
+{
+  "authority_source": "https://huggingface.co",
+  "chunk_count": 10,
+  "chunks": [
+    337,
+    339,
+    355,
+    1468,
+    2212,
+    2220,
+    2232,
+    2653,
+    2665,
+    2669
+  ],
+  "clip_count": 949,
+  "coverage_complete": false,
+  "dataset": "nvidia/PhysicalAI-Autonomous-Vehicles",
+  "drive_disjoint_verified": false,
+  "files": [
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_0337.zip",
+      "sha256": "57f88cba6a429e94d7376e184f9af2df18d82b77a79f1346d03af53c457e1953",
+      "size": 1691671888
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_0339.zip",
+      "sha256": "935c907e8538283708b1c6c068bbd2b8656c1a11dcd9c4e288803d10b34e09ea",
+      "size": 1560905735
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_0355.zip",
+      "sha256": "42ca2c6af7757484852b6ded26d5e29a886b6a0a3b8f989416f1c546863701eb",
+      "size": 1519413183
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_1468.zip",
+      "sha256": "4c96db136722139967f1c81ac241c12ad67dd003a8811c1b4d4984bddd57aa73",
+      "size": 1263336219
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_2212.zip",
+      "sha256": "a19de113b065176ec47db8e9a237229f26d6860c39d827db595464f8a8097d8e",
+      "size": 1757690938
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_2220.zip",
+      "sha256": "91721dd0da572b287c4e7dab61874b502515ead0ddbbe9c2686dff08859cc7b5",
+      "size": 1656850968
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_2232.zip",
+      "sha256": "0b4ab2695bbb21e4227b2d03a4b7d86dc94387806e233970eda2809075b8070b",
+      "size": 1728224168
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_2653.zip",
+      "sha256": "349c43a866523113155078618574f85e0d2fa6bd91b1e7828820a28e650e487e",
+      "size": 895371912
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_2665.zip",
+      "sha256": "4bf61635704c89758529eebbae7946479eba7dbb29b4326d0b6f036cd815e3a4",
+      "size": 995192162
+    },
+    {
+      "path": "camera/camera_cross_left_120fov/camera_cross_left_120fov.chunk_2669.zip",
+      "sha256": "eeabbc974868c6a4462aab8fc8d89a53dae18f1ab441115e3d060a3143fda831",
+      "size": 1260471146
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_0337.zip",
+      "sha256": "e7144b030065c4f30a46372b408037d5344ec365e4823acdb54f8a10a7e67568",
+      "size": 1715087609
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_0339.zip",
+      "sha256": "8915f604eac2e7a534fdcd6cccc3056761a5fe502d4b56324c78fae53b348c4c",
+      "size": 1709984055
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_0355.zip",
+      "sha256": "ffd1fa649163193c2ae274afda3a2df0b42c5c4a81f57576e536742ce8cf14ff",
+      "size": 1422511204
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_1468.zip",
+      "sha256": "99f080ff7d8d5be086593561a548568be9aa175a139206c8dd64a715ef9114ca",
+      "size": 1549456981
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_2212.zip",
+      "sha256": "baf8fa9a76c3900ae9afbb4b8cf6aa04a25634a9469413fefe1a3cc626e0f41c",
+      "size": 1938638494
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_2220.zip",
+      "sha256": "9813d6ec2cf472b5dceb4d0441262974cbd24e393882e4af86d932d3542c346b",
+      "size": 1919876390
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_2232.zip",
+      "sha256": "2693b4602992efc47342d0023295ff30e5d8774c68c653e51827e316ba784081",
+      "size": 1890540866
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_2653.zip",
+      "sha256": "3f2b5c6e36306070a6049bd1447962d3a280f5b1f5f008cd16d61ba9bb6f7a98",
+      "size": 1044339782
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_2665.zip",
+      "sha256": "7da7b9d642bd3ec326e81e56c444b49eb3a348facdf9ac9c122b57ccb590d8e5",
+      "size": 1145787290
+    },
+    {
+      "path": "camera/camera_cross_right_120fov/camera_cross_right_120fov.chunk_2669.zip",
+      "sha256": "9a767d685d83781e46b4e80d393ec642ef3334497b2e3471e81474250a4f8648",
+      "size": 1367740763
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_0337.zip",
+      "sha256": "0fbc616c92f8f095d74381e81fa036487564d823ec55d80933fc295de943ac54",
+      "size": 1316977883
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_0339.zip",
+      "sha256": "ef00e39c824d68ced9e6de7226d694ae801371640b9e986c35b4b86c89a73b94",
+      "size": 1304068526
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_0355.zip",
+      "sha256": "2dcab9c213b59c8de9051ec55f4cc41645c894115d28c41b8f4d855e2b0c063e",
+      "size": 1090658700
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_1468.zip",
+      "sha256": "dc7d91dd3331338aedffbeea0de1a3a9434aa7551b4facffbbe04030be00532f",
+      "size": 1346261343
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_2212.zip",
+      "sha256": "d8126cb3ed4b39bdd3e6d73a905a91ad2a8fda5a1dac13fa4eb6851f62a3ec85",
+      "size": 1120653608
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_2220.zip",
+      "sha256": "a9bf053c30d993d83463c36b7e91b7412cb077fa5d9c9239044c5f89c9707703",
+      "size": 1096717758
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_2232.zip",
+      "sha256": "7e7151c2ac1bb2d6ec40127ca27dbd62f41d3181deba827147a00b20c0097e81",
+      "size": 1147915435
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_2653.zip",
+      "sha256": "2e0aca94f870ca8835213e9138e2657b1d964e0f670aeb01c7dfec50c2c2db18",
+      "size": 729246611
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_2665.zip",
+      "sha256": "7725130c5c14c093c15efaa8ef07c9959510678591e9679742402c72bebb7188",
+      "size": 1058408438
+    },
+    {
+      "path": "camera/camera_front_tele_30fov/camera_front_tele_30fov.chunk_2669.zip",
+      "sha256": "962fea947ca911da759d3cb0fd0a4f4cc9b390da81603c751a4dcaee5fe64bdf",
+      "size": 1153587537
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_0337.zip",
+      "sha256": "b0216740f39ef4d4659693eacc2a1285689c4b2cd0d5281eb4fa61652e755c0d",
+      "size": 1471561969
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_0339.zip",
+      "sha256": "32a05ec4fabbe65c91d57cf64a2a64e237c98f52a2a7b2b0c600409e7433ca44",
+      "size": 1401030904
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_0355.zip",
+      "sha256": "d23e2c9793814abbd38a3b0e578516e5d33ca456734ae7d24c6852ac31fc3808",
+      "size": 1279414601
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_1468.zip",
+      "sha256": "ae3431c4723123d6f6714210831c100f93fb1e9008c56039984bb0401b0ad577",
+      "size": 1252727531
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_2212.zip",
+      "sha256": "d30d06a1f547ae12e7a49eadc161155f79ae04f42f424a986ea32c4a6dcc4559",
+      "size": 1340400523
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_2220.zip",
+      "sha256": "76057a4dfc92de05ab2378dfb5d7d34a04d22550af4ccaa98c26186747803146",
+      "size": 1391178605
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_2232.zip",
+      "sha256": "a21d778d5cd2a377074c6cd2115cff264fb98a49f10863268d531518f461b510",
+      "size": 1389116280
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_2653.zip",
+      "sha256": "0d44338fce302a8b507cb246d2390915155e05d92f7571041841843a459b317a",
+      "size": 797381668
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_2665.zip",
+      "sha256": "9404116a1cdd35cd048a21eea75ede6c37f28048be207caf843bf46a649983e2",
+      "size": 1059672521
+    },
+    {
+      "path": "camera/camera_front_wide_120fov/camera_front_wide_120fov.chunk_2669.zip",
+      "sha256": "3d19aba763da7db36c1eb64de08c426a620e8914f4030e351ce3bcbc477ab000",
+      "size": 1204652061
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_0337.zip",
+      "sha256": "552e665c332b40694bc49d364f1311436d016dd878867b189bb10d93748caf41",
+      "size": 40117198
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_0339.zip",
+      "sha256": "e7d737ff5a12d6fba96064eb12c83ad339914a5c6f184d2f71a5815fae0933b6",
+      "size": 38171258
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_0355.zip",
+      "sha256": "48f9ad5fa69cfc29f60e184af5bd4caf68486ce74e9710ebbc7dfb13a5c144ab",
+      "size": 34468516
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_1468.zip",
+      "sha256": "df2a608d7abe0d96f5872c3d3e9767b99a8acf2aa9324aecd31072d09861b991",
+      "size": 43336145
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_2212.zip",
+      "sha256": "1eeed479948e76780671275b65cf63b02984df0bd9f4077cb6c1c30fe547861f",
+      "size": 40782859
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_2220.zip",
+      "sha256": "c3acdf5d129c07e1d71bdc81e6696b12353f3a4db5317182a201ad0b74a123f3",
+      "size": 44380530
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_2232.zip",
+      "sha256": "b4fe43e9ce2b3ec84c225e3a5432422884f59f10fa859af85caa52afa6d96dfc",
+      "size": 42302208
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_2653.zip",
+      "sha256": "0d26fb24a3d84f390f52493eee91433c868549c5343baac402d2991e7c4e1d25",
+      "size": 27374570
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_2665.zip",
+      "sha256": "f36660dfb547ad355661c7537825a9cfbaf7787680787536afc972a8b3f23e83",
+      "size": 43167551
+    },
+    {
+      "path": "labels/egomotion/egomotion.chunk_2669.zip",
+      "sha256": "17da2277447bb81c1462c513fd8d6140e12f659ff27208d331656725aa1e29eb",
+      "size": 43620012
+    }
+  ],
+  "revision": "33f9bf447ed3bcb7d545ce13f4226f824214fafb",
+  "scope": "small_candidate_pool_not_certified_independent",
+  "seed": 20261011,
+  "snapshot_sha256": "e75bb6813da2f51767e701ea1f7fc9f920da8e943abb89bcb18f06a27b1b2096",
+  "total_bytes": 54382445102,
+  "transport_source": "https://huggingface.co"
+}

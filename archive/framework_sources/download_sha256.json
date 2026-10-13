@@ -1,0 +1,11 @@
+{
+  "compression/research/framework_budget_20261002/dflash.py": "0b7193828221fefa29d4b62b7deda432e7e81890548558810594a915de1b863d",
+  "compression/research/framework_budget_20261002/fusion.py": "2ce924f5ecc47fe0b7eabecaaec1b9c652b7851623ab4481de605b314b29ba69",
+  "compression/research/framework_budget_20261002/lightvla_modeling_prismatic.py": "12235c1f3514d386835972c6a321a110f3e89ae7857e6dd1f609fe049189c525",
+  "compression/research/framework_budget_20261002/quantization.py": "5b1cc9f65724c92211f61fe9688948243752beab39fdb5f505a8f2f890d84af5",
+  "compression/research/framework_budget_20261002/source_versions.json": "a362e41f2b69b5f009f627fb47edd4377212915b7f0ebc35f4fae3c1adeb2652",
+  "compression/research/framework_budget_20261002/streaming.py": "825112eb1db384b69a6266e2592406a62a77dc509fb4282d52effa569576c6fc",
+  "compression/research/framework_budget_20261002/_backbone.py": "c55c9b3579b5922edb9e3349e5a650ad541b831ce36b66847085f04e0b26516f",
+  "compression/research/framework_budget_20261002/_base.py": "5c8e728ef888f9c3e74d0e1b9548530d8fbf9086b26e66495af0d12872d163e3",
+  "compression/research/framework_budget_20261002/_compile.py": "a3c89597ccaa06cfaface7c1abd21d33570d4d2cb440a85c3e921a890b5ce9b3"
+}

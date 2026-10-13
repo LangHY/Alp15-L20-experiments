@@ -15,10 +15,15 @@ RTN/AWQ、混合内核、KV/少步采样、精度审计，以及数据下载和 
 git clone https://github.com/LangHY/Alp15-L20-experiments.git
 cd Alp15-L20-experiments
 uv sync --frozen
+uv run --frozen python tools/restore_packaged_manifests.py
 uv run --frozen python -c "import huggingface_hub; print(huggingface_hub.__version__)"
 ```
 
 默认环境只用于下载工具，不安装 GPU/PyTorch。额外 CPU 数据分析依赖：
+
+四份大索引/清单使用 `archive/packed_manifests/` 的 gzip/base64 分片分发，
+上面的还原命令无需联网，逐文件验证原始 SHA-256；已有且校验不匹配的文件不会被覆盖。
+源码本身不分片。此操作不下载模型或测试数据。
 
 ```bash
 uv sync --frozen --extra analysis
